@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/iamrohit017" width="500"/>
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
